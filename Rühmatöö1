@@ -1,0 +1,22 @@
+Aksel Kaasik, Ann Marleen Varul
+
+Programmi töötamiseks on vaja alla laadida jsoup (seda saab teha leheküljelt "jsoup.org/download") ning lisama faili programmi projekti!!!
+
+Projekti põhjalik kirjeldus, kus on kirjas programmi eesmärk ja selgitus programmi üldisest tööst, vajadusel lühike kasutusjuhis: Programmis olemas.
+Iga klassi kohta eraldi selle eesmärk ja olulisemad meetodid: Programmis olemas
+
+Projekti tegemise protsessi kirjeldus (erinevad etapid ja rühmaliikmete osalemine neis): Peale OOPi praktikume kasutasime ära vaba aega, et läbi mõelda ja kirjutada koodi.
+Otseselt mingeid etappe ei olnud, hakkasime lihtsalt koodi kirjutamisega otsast pihta. Koodi kirjutasime, siis kui saime kokku, ehk põhimõtteliselt osalesime mõlemad terves koodi kirjutamises.
+
+Iga rühmaliikme panus (sh tehtud klassid/meetodid) ja ajakulu (orienteeruvalt); Kirjutasime koodi koos, panus oli võrdne. Ajakulu orienteeruvalt 8h.
+
+Tegemise mured: Alguses oli raske saada tööle leheküljelt lugemine, kuid peale pikka nuputamist saime enam-vähem korda.
+Leheküljelt, kust andmeid loeme, on 100 laulu, kahjuks meie programm ei taha lugeda 5 viimast laulu meile teadmata põhjusel.
+
+Hinnang oma töö lõpptulemusele: Oleme meeldivalt rahul oma lõpptulemusega, koostöö sujus hästi ja oli vahva.
+Rahul ei ole enda ajaplaneerimise oskusega (rühmatöö jäi üpriski viimasele minutile). Kui programm tööle panna ja sisestada "Suvalised" või "Top" ning peale seda sisestada mingi suvaline sümbol,
+siis tekib error. (Otseselt ei ole see suureks probleemiks, kuna rühmatöö juhendis on kirjas, et võib eeldada, et kasutaja sisestab vastuse nõutud kujul).
+
+Selgitus, kuidas programmi osi eraldi ja programmi tervikuna testisite: algselt oli igas klassis main meetod,
+kus katsetasime selle klassi kirjutamise vältel erinevate koodi osade eraldi töötamist. Kui klass lõpuks valmis oli, siis eemaldasime main meetodid (alles jäi see ainult Peaklassi).
+Kui iga klass valmis oli, siis katsetasime Peaklassis erinevate meetodite tööd erinevate sisendite korral.
